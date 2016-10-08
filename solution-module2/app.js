@@ -29,6 +29,9 @@ function ShoppingListCheckOffService() {
 
   // List of shopping items
   var toBuyItems = [{"name": "cookies", "quantity": "100"},
+                    {"name": "popcorn", "quantity": "20 bags of"},
+                    {"name": "apple juice", "quantity": "100 cans of"},
+                    {"name": "plates", "quantity": "100"},
                     {"name": "candies", "quantity": "25"}];
   var boughtItems = [];
 
